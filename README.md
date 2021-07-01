@@ -19,4 +19,3 @@ const CONFIG = {
     messDesc: 'Tối sang nhà anh ngủ nhé công chúa <3',
     btnAccept: 'Okiiiii lun <3',
 }
-```
