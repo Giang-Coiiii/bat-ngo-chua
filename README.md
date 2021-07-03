@@ -5,8 +5,10 @@ Mở file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
     introTitle:'He luu cậu!!!',
-    introDesc: `Tớ có điều này muốn hỏi cậu nhớ
-    phải trả lời thật lòng nhaaaaa',
+    introDesc: `Trái đất vốn lạ thường
+    Tại sao e cứ đi nhầm đường
+    Lạc vsof tim anh lẻ loi
+    Đằng sau chữ yêu đấy là thương',
     btnIntro: 'OK',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
