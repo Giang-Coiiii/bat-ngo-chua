@@ -6,7 +6,7 @@ Mở file config.js sửa nội dung theo mẫu
 const CONFIG = {
     introTitle:'He luu cậu!!!',
     introDesc: `Tớ có điều này muốn hỏi cậu nhớ
-    phải trả lời thật lòng nhaaaaa.
+    phải trả lời thật lòng nhaaaaa',
     btnIntro: 'OK',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
